@@ -1,1 +1,3 @@
-# IAMFIN-Clone
+# iamfin website
+
+www.iamfin.com
